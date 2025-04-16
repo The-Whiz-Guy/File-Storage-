@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Cabin:wght@700&family=Roboto+Mono:wght@100&display=swap");
-
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap");
 
 * {
@@ -228,11 +227,6 @@ input[type="file"] {
   position: relative;
 }
 
-/* .image-container:hover img {
-  border: 2px solid red;
-  opacity: 0.8;
-} */
-
 .delete-button {
   display: none;
   z-index: 2;
@@ -244,13 +238,9 @@ input[type="file"] {
   margin: auto;
 }
 
-/* .image-grid {} */
-
 .image-grid .image-container {
   position: relative;
 }
-
-/* .image-grid .image-container img {} */
 
 .image-grid .image-container button {
   position: absolute;

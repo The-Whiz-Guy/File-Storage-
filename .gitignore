@@ -8,3 +8,6 @@ typechain-types
 cache
 .env
 
+venv/
+/venv
+.venv

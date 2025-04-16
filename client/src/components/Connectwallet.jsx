@@ -17,7 +17,7 @@ function App() {
         });
         setWalletAddress(accounts[0]);
         console.log(accounts[0]);
-      } catch (err) {
+      } catch (err) { 
         console.error(err.message);
       }
     } else {

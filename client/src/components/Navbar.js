@@ -6,11 +6,10 @@ import Connectwallet from "./Connectwallet";
 const Navbar = () => {
   const [isMobile, setIsMobile] = useState(false);
 
-  // Listen for changes in screen size
   useEffect(() => {
     const handleResize = () => {
       const isSmallScreen = window.innerWidth <= 768;
-      setIsMobile(isSmallScreen && isMobile); // Only update if small screen and already mobile view
+      setIsMobile(isSmallScreen && isMobile); 
     };
 
     window.addEventListener("resize", handleResize);

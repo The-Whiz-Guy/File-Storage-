@@ -5,8 +5,6 @@ import Modal from "./Modal";
 import "./Spinner.css";
 import "./FileUpload.css";
 
-
-
 const ipfs = create({ host: "localhost", port: "5001", protocol: "http" });
 
 const FileUpload = ({ contract, account, provider, refreshAccessList }) => {
