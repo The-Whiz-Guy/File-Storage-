@@ -14,7 +14,6 @@ const Navbar = () => {
 
     window.addEventListener("resize", handleResize);
 
-    // Remove event listener on unmount
     return () => {
       window.removeEventListener("resize", handleResize);
     };
