@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/File-Storage-/static/css/main.f6206b4c.css",
+    "main.js": "/File-Storage-/static/js/main.4747526a.js",
+    "static/media/fristpage-video.mp4": "/File-Storage-/static/media/fristpage-video.685cdcb67dac306e9d9c.mp4",
+    "static/media/secondpage-video.mp4": "/File-Storage-/static/media/secondpage-video.518205c444f3e70b6b92.mp4",
+    "static/media/second-image-min.png": "/File-Storage-/static/media/second-image-min.32a6fee438e26ca0558c.png",
+    "static/media/first-image-min.png": "/File-Storage-/static/media/first-image-min.a183bf5f345db763fc04.png",
+    "static/media/third-image-min.png": "/File-Storage-/static/media/third-image-min.17bfad93ea825d824b55.png",
+    "index.html": "/File-Storage-/index.html",
+    "main.f6206b4c.css.map": "/File-Storage-/static/css/main.f6206b4c.css.map",
+    "main.4747526a.js.map": "/File-Storage-/static/js/main.4747526a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6206b4c.css",
+    "static/js/main.4747526a.js"
+  ]
+}
